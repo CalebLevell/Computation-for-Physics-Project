@@ -10,7 +10,7 @@ Investigations
 
 1. Molecular Conformer Dynamics
 
-An investigation into molecular conformations and their energy landscapes, using computational techniques to explore molecular structures.
+An investigation into molecular conformers and using linear algebra to solve problems
 
 2. Logistic Map
 
