@@ -1,43 +1,32 @@
-Computational Physics Project
+Computation for Physics Project
 
-Overview
+Final first-year assessment for the 4CCP1300 Computation for Physics module at King’s College London. The project involved using Python to solve a series of problems involving mathematical and physical systems.
 
-This repository contains a collection of computational physics investigations completed as part of the 4CCP1300 Computation for Physics module at King’s College London.
+Problems
 
-The project explores the application of numerical methods and computational techniques to physical and mathematical systems, using Python to model, analyse and visualise their behaviour.
+1. Molecular Conformers
 
-Investigations
-
-1. Molecular Conformer Dynamics
-
-An investigation into molecular conformers and using linear algebra to solve problems
+Using computational methods to investigate molecular conformations and calculate their properties.
 
 2. Logistic Map
 
-An exploration of nonlinear dynamical systems using the logistic map, investigating how changes in a system parameter produce different behaviours, including periodicity and chaos.
+Using the logistic map to investigate how changing a parameter affects the behaviour of a system, including the transition to chaos.
 
 3. Projectile Motion
 
-Numerical modelling of projectile trajectories using Euler integration, examining the motion of projectiles under the influence of physical forces.
+Modelling projectile motion numerically and investigating how different forces affect the trajectory.
 
-Methods and Technologies
+Tools and Methods
 
-* Python – programming and numerical modelling
-* NumPy – numerical computation and linear algebra
-* Matplotlib – data visualisation
-* Numerical methods – Euler integration, finite differences and numerical analysis
-
-Repository Structure
-
-The investigations and their associated code are contained in the Jupyter notebook:
-
-computational-physics-project.ipynb
+* Python
+* NumPy
+* Matplotlib
+* Numerical integration
+* Linear algebra and eigenvalue calculations
+* Numerical modelling and visualisation
 
 Running the Project
 
-The notebook can be opened and executed using Jupyter Notebook or Google Colab.
+The code is contained in a Jupyter notebook and can be run using Jupyter Notebook or Google Colab.
 
-Required Python libraries:
-
-* NumPy
-* Matplotlib
+Required libraries: NumPy and Matplotlib.
